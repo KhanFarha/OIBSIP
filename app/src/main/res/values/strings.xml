@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trial_Unit_Converter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="select">Select Item</string>
+</resources>
